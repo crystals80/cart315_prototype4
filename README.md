@@ -4,15 +4,14 @@
 
 <br>
 
-////To Modify////By presenting to the player a simple instruction without much guidance to build a path, I believe that they can collect all the floating coins. So if I provide them the option to generate an unlimited amount of blocks, then the player will be able to create a path to go collect the coins. With the creative freedom the player will be given to build their path, will the user try to pick up all the coins or will they give up on the coins that are higher up?  
+By presenting a simple game without much guidance, I believe that the playtesters will catch on quickly after a few trial and error that the obstacles are to be avoided. So if I provide them with obstacles that aren't blocking their jumps, then the player will be able to jump over these obstacles without following the actual "entrance" or "pathway" made for them. That said, will the play make the effort and time to careful by-pass the obstacles?  
 
 <br>
 
 <b>List of questions for playtesters</b>
-<ol><li>Was the only instruction too vague? Were you confused and did not know what to do?</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li></ol>  
+<ol><li>Was the game clear even without instructions?</li>
+  <li>How many tries did it takes you to get to the finish line?</li>
+  <li>What do you think of the audios?</li>
+  <li>Did you try jumping down from the platform?</li>
+  <li>Which part was most difficult to by-pass?</li>
+  <li>What do you think of the 45 degrees angle perspective?</li></ol>  
